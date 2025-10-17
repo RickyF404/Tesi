@@ -19,4 +19,4 @@ Questo repository contiene i seguenti notebook Google Colab:
 
 "AEs.ipynb", risultati e grafici con AutoEncoder (CVAE, VAE, AE) + Deep SVDD
 
-"Graphs.ipynb", grafici (Correlazione tra frequenze e temperatura)
+"Graphs.ipynb", grafici (Correlazione tra frequenze e temperatura, comparazione tra i modelli)
