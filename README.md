@@ -22,3 +22,5 @@ Questo repository contiene i seguenti notebook Google Colab:
 "Graphs.ipynb", grafici (Correlazione tra frequenze e temperatura, comparazione tra i modelli)
 
 "Anomaly_autoencoders.ipynb", Autoencoders (senza e con temperatura), dataset con anomalie
+
+"Anomaly_VAE.ipynb", CVAE (beta 1 e beta 0.01), VAE senza e con temperatura, dataset con anomalie
