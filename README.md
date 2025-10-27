@@ -24,3 +24,5 @@ Questo repository contiene i seguenti notebook Google Colab:
 "Anomaly_autoencoders.ipynb", Autoencoders (senza e con temperatura), dataset con anomalie
 
 "Anomaly_VAE.ipynb", CVAE (beta 1 e beta 0.01), VAE senza e con temperatura, dataset con anomalie
+
+"Dataset_inclinometri.ipynb", PCA, SVM, LOF, VAE senza temperatura, AE senza temperatura, dataset inclinometro
